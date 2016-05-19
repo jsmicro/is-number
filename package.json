@@ -1,0 +1,27 @@
+{
+    "name": "jsmicro-is-number",
+    "version": "1.0.0",
+    "description": "Check does the given Javascript Object is a number.",
+    "main": "main.js",
+    "scripts": {
+        "test": "node test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/jsmicro/is-number.git"
+    },
+    "keywords": [
+        "is-number",
+        "isnumber",
+        "number"
+    ],
+    "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jsmicro/is-number/issues"
+    },
+    "homepage": "https://github.com/jsmicro/is-number#readme",
+    "devDependencies": {
+        "jsmicro-test": "^1.0.1"
+    }
+}
