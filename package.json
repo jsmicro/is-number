@@ -1,5 +1,5 @@
 {
-    "name": "jsmicro-is-number",
+    "name": "@jsmicro/is-number",
     "version": "1.0.1",
     "description": "Check does the given Javascript Object is a number.",
     "main": "main.js",

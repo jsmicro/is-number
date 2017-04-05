@@ -30,11 +30,11 @@ bower install --save jsmicro-is-number
 ## NodeJS Usage
 
 ```bash
-npm install --save jsmicro-is-number
+npm install --save @jsmicro/is-number
 ```
 
 ```js
-const obj = require('jsmicro-is-number');
+const obj = require('@jsmicro/is-number');
 
 // Available in the global object.
 isNumber(2344342432); // true
